@@ -1,0 +1,86 @@
+what is api?
+Api stands for application programming interface which is communicating the software applicatins via api calls
+
+HTTP methods
+GET: used to get the information from web server
+POST: used to create the record from web server
+PUT: used to existing record should be modified from webserver
+DELETE: used to delete the record from web server
+PATCH: this method is used to apply partial modifications
+
+http methods:
+get: used get the information from web server
+
+post: used create the new record from web server
+
+put: used to update the existing record from web server
+
+delete: used to delete from web server
+
+patch: used to pertial record from web server
+
+
+
+https status codes for the api testing:
+  200 :  sucess
+  201 :  create
+  204 :  no content
+  400 :  bed request
+  401 :  un autorised
+  403 :  farbidden
+  404:   not found
+  500:   internal server error
+  503:  service un available
+  
+API = api stands for the appplication programming interface which will communicate clint and server or between two applications
+
+json = java script object notation
+http = hyper text transfer protocol
+https = hyper text transfer protocol secure
+
+API [APPLICATION PROGRAMMING INTERFACE]
+
+It is a combination of client and server (or) between the two software applications for the business logic are called api
+
+API contais three layer
+1> prasentation layer
+2>application layer
+3> data layer
+
+THERE ARE TWO TYPES OF API'S
+*simple object access protocol(SOAP)
+*representational state transfer(REST)
+
+postman - API testing tool
+we can do manual testing of API'S using postman
+
+workspace.area where we maintain files and saved
+work space - create workspace,rename,delete
+
+creating a collection- contaoins number of folders and http requersts.
+create,rename,delete,run the collection
+we can create any number of collections under workspace
+
+REQUESTS------->API------>RESPONSE
+
+GET
+POST
+PUT
+DELETE
+
+Validations:-
+satatus code
+time
+size data
+
+response body(json/xml)
+cookies
+headers
+
+
+
+
+
+
+
+
